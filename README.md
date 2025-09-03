@@ -29,16 +29,4 @@ JavaScript (ES6) – Functionality and interactivity
 ├── 📄 style.css      # Styles for the UI
 └── 📄 script.js      # JavaScript for functionality
 
-▶ How to Run
 
-Clone this repository:
-
-git clone https://github.com/your-username/todo-list.git
-
-
-Navigate to the project folder:
-
-cd todo-list
-
-
-Open index.html in your browser.
