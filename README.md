@@ -28,5 +28,5 @@ JavaScript (ES6) – Functionality and interactivity
 ├── 📄 index.html     # Main HTML file
 ├── 📄 style.css      # Styles for the UI
 └── 📄 script.js      # JavaScript for functionality
-
+![App Screenshot]([images/screenshot.png](https://github.com/Krish6921942/To-Do-List-/blob/050656724ad15282831aed687e7310d5d2fe3372/Screenshot%202025-09-03%20214958.png)
 
